@@ -1,16 +1,8 @@
-# flutter_run_record_app_v2
+# โปรเจ็ค เก็บข้อมูลการวิ่ง
 
-A new Flutter project.
+<img src="https://github.com/user-attachments/assets/beaf7bb6-e5fc-4b2a-b536-b79f03ba885e">
+<img src="https://github.com/user-attachments/assets/c2e28fe1-3b25-486b-846a-faa66608a326">
+<img src="https://github.com/user-attachments/assets/e4063558-8115-43bd-ae0a-891195cb9a3e">
+<img src="https://github.com/user-attachments/assets/6e3068fd-c331-4591-bf76-8882568c4490">
+<img src="https://github.com/user-attachments/assets/dbe78a8d-ed1b-4b31-a47d-354fc0d8f982">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
